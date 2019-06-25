@@ -9,4 +9,4 @@ Algorithms implemented using C++ and GUI using Qt.
 Number of nodes and number of edges and their weights.
 ### Outputs:
 Centrality for nodes printed ascendingly according to the node’s id.\
-visualization of the graph such that nodes with higher centrality are clear.
+Visualization of the graph such that nodes with higher centrality are clear.
