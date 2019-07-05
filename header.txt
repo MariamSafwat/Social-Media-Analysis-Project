@@ -1,0 +1,7 @@
+void DegreeCen(vector<vector<int>> adjlist, vector<float>& degree);
+int shortest(vector<vector<pair<int, int>>> adjlist, int src);
+void closeness(vector<vector<pair<int, int>>> adjlist, vector<float>& closs);
+void quickSort(vector<pair<int, int>> arr, int l, int r);
+void swap(int& a, int& b);
+float shortest_bet(vector<vector<pair<int, int>>> adjlist, int src, int v, int des);
+void bet(vector<vector<pair<int, int>>> adjlist, vector<float>& betw);
